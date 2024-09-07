@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "beefsmetalblock:block/cut_gold_slab"
+    },
+    "type=double": {
+      "model": "beefsmetalblock:block/cut_gold"
+    },
+    "type=top": {
+      "model": "beefsmetalblock:block/cut_iron_gold_top"
+    }
+  }
+}

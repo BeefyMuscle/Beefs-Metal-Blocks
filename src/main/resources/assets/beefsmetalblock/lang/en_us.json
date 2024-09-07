@@ -1,0 +1,30 @@
+{
+  "item.beefsmetalblock.vc_logo": "VC Logo",
+
+  "block.beefsmetalblock.cut_iron": "Cut Iron",
+  "block.beefsmetalblock.smooth_iron": "Smooth Iron",
+  "block.beefsmetalblock.chiseled_iron": "Chiseled Iron",
+  "block.beefsmetalblock.polished_iron": "Polished Iron",
+  "block.beefsmetalblock.cut_iron_slab": "Cut Iron Slab",
+  "block.beefsmetalblock.cut_iron_stairs": "Cut Iron Stairs",
+  "block.beefsmetalblock.iron_grate": "Iron Grate",
+
+  "block.beefsmetalblock.cut_gold": "Cut Gold",
+  "block.beefsmetalblock.smooth_gold": "Smooth Gold",
+  "block.beefsmetalblock.chiseled_gold": "Chiseled Gold",
+  "block.beefsmetalblock.reinforced_gold": "Reinforced Gold",
+  "block.beefsmetalblock.cut_gold_slab": "Cut Gold Slab",
+  "block.beefsmetalblock.cut_gold_stairs": "Cut Gold Stairs",
+  "block.beefsmetalblock.gold_grate": "Gold Grate",
+
+  "block.beefsmetalblock.polished_copper": "Polished Copper",
+  "block.beefsmetalblock.reinforced_copper": "Reinforced Copper",
+
+  "block.beefsmetalblock.copper_bars": "Copper Bars",
+  "block.beefsmetalblock.gold_bars": "Gold Bars",
+
+  "block.beefsmetalblock.gold_trapdoor": "Gold Trapdoor",
+
+  "block.beefsmetalblock.gold_bulb": "Gold Bulb",
+  "block.beefsmetalblock.iron_bulb": "Iron Bulb"
+}

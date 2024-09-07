@@ -1,5 +1,7 @@
 package net.beefymuscle.metalblocks;
 
+import net.beefymuscle.metalblocks.block.ModBlocks;
+import net.beefymuscle.metalblocks.items.ModItems;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -11,6 +13,7 @@ public class BeefsMetalBlocks implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-
+		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }

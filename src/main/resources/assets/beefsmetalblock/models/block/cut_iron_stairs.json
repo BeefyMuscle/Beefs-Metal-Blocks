@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "beefsmetalblock:block/cut_iron",
+    "side": "beefsmetalblock:block/cut_iron",
+    "top": "beefsmetalblock:block/cut_iron"
+  }
+}

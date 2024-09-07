@@ -1,0 +1,16 @@
+"type": "minecraft:crafting_shaped",
+"category": "building",
+"key": {
+"#": {
+"item": "beefsmetalblock:smooth_iron"
+}
+},
+"pattern": [
+"##",
+"##"
+],
+"result": {
+"count": 4,
+"id": "beefsmetalblock:cut_iron"
+}
+}
