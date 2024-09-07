@@ -2,7 +2,6 @@ package net.beefymuscle.metalblocks.block;
 
 import net.beefymuscle.metalblocks.BeefsMetalBlocks;
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
-import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.minecraft.block.*;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
