@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "beefsmetalblock",
+	"version": "${version}",
+	"name": "Beef's Metal Blocks",
+	"description": "This mod adds iron and gold variations of copper blocks, and adds gold and copper bars!",
+	"authors": [
+		"BeefyMuscle"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/beefsmetalblock/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.beefymuscle.metalblocks.BeefsMetalBlocks"
+		],
+		"fabric-datagen": [
+			"net.beefymuscle.metalblocks.BeefsMetalBlocksDataGenerator"
+		],
+		"client": [
+			"net.beefymuscle.metalblocks.BeefsMetalBlocksClient"
+		]
+	},
+	"mixins": [
+		"beefsmetalblock.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.4",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
