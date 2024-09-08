@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "bmb:exposed_reinforced_copper"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:exposed_copper"
+  }
+}

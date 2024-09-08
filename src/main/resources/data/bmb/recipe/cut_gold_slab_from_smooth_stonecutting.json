@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "bmb:smooth_gold"
+  },
+  "result": {
+    "count": 8,
+    "id": "bmb:cut_gold_slab"
+  }
+}

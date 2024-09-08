@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "bmb:block/cut_iron_slab"
+    },
+    "type=double": {
+      "model": "bmb:block/cut_iron"
+    },
+    "type=top": {
+      "model": "bmb:block/cut_iron_slab_top"
+    }
+  }
+}

@@ -1,13 +1,13 @@
 {
   "replace": false,
   "values": [
-    "beefsmetalblock:cut_iron",
-    "beefsmetalblock:smooth_iron",
-    "beefsmetalblock:chiseled_iron",
-    "beefsmetalblock:polished_iron",
-    "beefsmetalblock:cut_gold",
-    "beefsmetalblock:smooth_gold",
-    "beefsmetalblock:chiseled_gold",
-    "beefsmetalblock:reinforced_gold"
+    "bmb:cut_iron",
+    "bmb:smooth_iron",
+    "bmb:chiseled_iron",
+    "bmb:polished_iron",
+    "bmb:cut_gold",
+    "bmb:smooth_gold",
+    "bmb:chiseled_gold",
+    "bmb:reinforced_gold"
   ]
 }

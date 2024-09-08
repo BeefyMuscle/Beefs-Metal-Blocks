@@ -1,6 +1,6 @@
 {
 	"schemaVersion": 1,
-	"id": "beefsmetalblockbm",
+	"id": "bmb",
 	"version": "${version}",
 	"name": "Beef's Metal Blocks",
 	"description": "This mod adds iron and gold variations of copper blocks, and adds gold and copper bars!",
@@ -12,7 +12,7 @@
 		"sources": "https://github.com/BeefyMuscle/Beefs-Metal-Blocks"
 	},
 	"license": "GPL-3.0",
-	"icon": "assets/beefsmetalblock/icon.png",
+	"icon": "assets/bmb/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
@@ -26,7 +26,7 @@
 		]
 	},
 	"mixins": [
-		"beefsmetalblock.mixins.json"
+		"bmb.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.16.3",

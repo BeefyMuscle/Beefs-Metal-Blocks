@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "bmb:block/cut_gold_slab"
+    },
+    "type=double": {
+      "model": "bmb:block/cut_gold"
+    },
+    "type=top": {
+      "model": "bmb:block/cut_gold_slab_top"
+    }
+  }
+}

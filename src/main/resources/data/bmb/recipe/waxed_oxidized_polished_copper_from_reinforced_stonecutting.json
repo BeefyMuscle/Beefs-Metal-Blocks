@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "bmb:waxed_oxidized_reinforced_copper"
+  },
+  "result": {
+    "count": 1,
+    "id": "bmb:waxed_oxidized_polished_copper"
+  }
+}

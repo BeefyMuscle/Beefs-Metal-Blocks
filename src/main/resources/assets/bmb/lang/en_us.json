@@ -1,0 +1,56 @@
+{
+  "item.bmb.vc_logo": "VC Logo",
+
+  "block.bmb.cut_iron": "Cut Iron",
+  "block.bmb.smooth_iron": "Block of Iron",
+  "block.bmb.chiseled_iron": "Chiseled Iron",
+  "block.bmb.polished_iron": "Polished Iron",
+  "block.bmb.cut_iron_slab": "Cut Iron Slab",
+  "block.bmb.cut_iron_stairs": "Cut Iron Stairs",
+  "block.bmb.iron_grate": "Iron Grate",
+
+  "block.bmb.cut_gold": "Cut Gold",
+  "block.bmb.smooth_gold": "Block of Gold",
+  "block.bmb.chiseled_gold": "Chiseled Gold",
+  "block.bmb.reinforced_gold": "Reinforced Gold",
+  "block.bmb.cut_gold_slab": "Cut Gold Slab",
+  "block.bmb.cut_gold_stairs": "Cut Gold Stairs",
+  "block.bmb.gold_grate": "Gold Grate",
+
+  "block.bmb.polished_copper": "Polished Copper",
+  "block.bmb.exposed_polished_copper": "Exposed Polished Copper",
+  "block.bmb.weathered_polished_copper": "Weathered Polished Copper",
+  "block.bmb.oxidized_polished_copper": "Oxidized Polished Copper",
+
+  "block.bmb.waxed_polished_copper": "Waxed Polished Copper",
+  "block.bmb.waxed_exposed_polished_copper": "Waxed Exposed Polished Copper",
+  "block.bmb.waxed_weathered_polished_copper": "Waxed Weathered Polished Copper",
+  "block.bmb.waxed_oxidized_polished_copper": "Waxed Oxidized Polished Copper",
+
+  "block.bmb.reinforced_copper": "Reinforced Copper",
+  "block.bmb.exposed_reinforced_copper": "Exposed Reinforced Copper",
+  "block.bmb.weathered_reinforced_copper": "Weathered Reinforced Copper",
+  "block.bmb.oxidized_reinforced_copper": "Oxidized Reinforced Copper",
+
+  "block.bmb.waxed_reinforced_copper": "Waxed Reinforced Copper",
+  "block.bmb.waxed_exposed_reinforced_copper": "Waxed Exposed Reinforced Copper",
+  "block.bmb.waxed_weathered_reinforced_copper": "Waxed Weathered Reinforced Copper",
+  "block.bmb.waxed_oxidized_reinforced_copper": "Waxed Oxidized Reinforced Copper",
+
+  "block.bmb.copper_bars": "Copper Bars",
+  "block.bmb.exposed_copper_bars": "Exposed Copper Bars",
+  "block.bmb.weathered_copper_bars": "Weathered Copper Bars",
+  "block.bmb.oxidized_copper_bars": "Oxidized Copper Bars",
+
+  "block.bmb.waxed_copper_bars": "Waxed Copper Bars",
+  "block.bmb.waxed_exposed_copper_bars": "Waxed Exposed Copper Bars",
+  "block.bmb.waxed_weathered_copper_bars": "Waxed Weathered Copper Bars",
+  "block.bmb.waxed_oxidized_copper_bars": "Waxed Oxidized Copper Bars",
+
+  "block.bmb.gold_bars": "Gold Bars",
+
+  "block.bmb.gold_trapdoor": "Gold Trapdoor",
+
+  "block.bmb.gold_bulb": "Gold Bulb",
+  "block.bmb.iron_bulb": "Iron Bulb"
+}

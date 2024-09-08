@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "bmb:reinforced_gold"
+  },
+  "result": {
+    "count": 4,
+    "id": "bmb:cut_gold_stairs"
+  }
+}
