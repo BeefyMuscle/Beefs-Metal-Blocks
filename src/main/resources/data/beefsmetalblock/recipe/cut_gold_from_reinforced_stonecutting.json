@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "beefsmetalblock:reinforced_gold"
+  },
+  "result": {
+    "count": 4,
+    "id": "beefsmetalblock:cut_gold"
+  }
+}

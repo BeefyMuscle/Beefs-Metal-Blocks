@@ -2,7 +2,7 @@
   "item.beefsmetalblock.vc_logo": "VC Logo",
 
   "block.beefsmetalblock.cut_iron": "Cut Iron",
-  "block.beefsmetalblock.smooth_iron": "Smooth Iron",
+  "block.beefsmetalblock.smooth_iron": "Block of Iron",
   "block.beefsmetalblock.chiseled_iron": "Chiseled Iron",
   "block.beefsmetalblock.polished_iron": "Polished Iron",
   "block.beefsmetalblock.cut_iron_slab": "Cut Iron Slab",
@@ -10,7 +10,7 @@
   "block.beefsmetalblock.iron_grate": "Iron Grate",
 
   "block.beefsmetalblock.cut_gold": "Cut Gold",
-  "block.beefsmetalblock.smooth_gold": "Smooth Gold",
+  "block.beefsmetalblock.smooth_gold": "Block of Gold",
   "block.beefsmetalblock.chiseled_gold": "Chiseled Gold",
   "block.beefsmetalblock.reinforced_gold": "Reinforced Gold",
   "block.beefsmetalblock.cut_gold_slab": "Cut Gold Slab",
@@ -18,9 +18,35 @@
   "block.beefsmetalblock.gold_grate": "Gold Grate",
 
   "block.beefsmetalblock.polished_copper": "Polished Copper",
+  "block.beefsmetalblock.exposed_polished_copper": "Exposed Polished Copper",
+  "block.beefsmetalblock.weathered_polished_copper": "Weathered Polished Copper",
+  "block.beefsmetalblock.oxidized_polished_copper": "Oxidized Polished Copper",
+
+  "block.beefsmetalblock.waxed_polished_copper": "Waxed Polished Copper",
+  "block.beefsmetalblock.waxed_exposed_polished_copper": "Waxed Exposed Polished Copper",
+  "block.beefsmetalblock.waxed_weathered_polished_copper": "Waxed Weathered Polished Copper",
+  "block.beefsmetalblock.waxed_oxidized_polished_copper": "Waxed Oxidized Polished Copper",
+
   "block.beefsmetalblock.reinforced_copper": "Reinforced Copper",
+  "block.beefsmetalblock.exposed_reinforced_copper": "Exposed Reinforced Copper",
+  "block.beefsmetalblock.weathered_reinforced_copper": "Weathered Reinforced Copper",
+  "block.beefsmetalblock.oxidized_reinforced_copper": "Oxidized Reinforced Copper",
+
+  "block.beefsmetalblock.waxed_reinforced_copper": "Waxed Reinforced Copper",
+  "block.beefsmetalblock.waxed_exposed_reinforced_copper": "Waxed Exposed Reinforced Copper",
+  "block.beefsmetalblock.waxed_weathered_reinforced_copper": "Waxed Weathered Reinforced Copper",
+  "block.beefsmetalblock.waxed_oxidized_reinforced_copper": "Waxed Oxidized Reinforced Copper",
 
   "block.beefsmetalblock.copper_bars": "Copper Bars",
+  "block.beefsmetalblock.exposed_copper_bars": "Exposed Copper Bars",
+  "block.beefsmetalblock.weathered_copper_bars": "Weathered Copper Bars",
+  "block.beefsmetalblock.oxidized_copper_bars": "Oxidized Copper Bars",
+
+  "block.beefsmetalblock.waxed_copper_bars": "Waxed Copper Bars",
+  "block.beefsmetalblock.waxed_exposed_copper_bars": "Waxed Exposed Copper Bars",
+  "block.beefsmetalblock.waxed_weathered_copper_bars": "Waxed Weathered Copper Bars",
+  "block.beefsmetalblock.waxed_oxidized_copper_bars": "Waxed Oxidized Copper Bars",
+
   "block.beefsmetalblock.gold_bars": "Gold Bars",
 
   "block.beefsmetalblock.gold_trapdoor": "Gold Trapdoor",

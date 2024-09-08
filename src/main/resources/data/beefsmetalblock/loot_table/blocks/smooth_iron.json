@@ -11,7 +11,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "beefsmetalblock:smooth_iron"
+          "name": "beefsmetalblock:waxed_smooth_iron"
         }
       ],
       "rolls": 1.0

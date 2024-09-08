@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "beefsmetalblock:oxidized_reinforced_copper"
+  },
+  "result": {
+    "count": 1,
+    "id": "beefsmetalblock:oxidized_polished_copper"
+  }
+}

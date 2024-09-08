@@ -15,5 +15,6 @@ public class BeefsMetalBlocks implements ModInitializer {
 	public void onInitialize() {
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
+		ModBlocks.registerOxidizable();
 	}
 }

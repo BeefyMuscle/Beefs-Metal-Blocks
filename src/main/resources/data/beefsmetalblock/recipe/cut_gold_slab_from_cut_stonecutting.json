@@ -1,7 +1,7 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": {
-    "item": "minecraft:gold_block"
+    "item": "beefsmetalblock:cut_gold"
   },
   "result": {
     "count": 2,

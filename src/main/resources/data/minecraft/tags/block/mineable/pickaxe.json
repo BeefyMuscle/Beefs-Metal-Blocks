@@ -2,25 +2,57 @@
   "replace": false,
   "values": [
     "beefsmetalblock:cut_iron",
-    "beefsmetalblock:iron_grate",
+    "beefsmetalblock:cut_iron_slab",
+    "beefsmetalblock:cut_iron_stairs",
     "beefsmetalblock:smooth_iron",
     "beefsmetalblock:chiseled_iron",
     "beefsmetalblock:polished_iron",
-    "beefsmetalblock:cut_iron_slab",
-    "beefsmetalblock:cut_iron_stairs",
+
     "beefsmetalblock:cut_gold",
-    "beefsmetalblock:gold_grate",
+    "beefsmetalblock:cut_gold_slab",
+    "beefsmetalblock:cut_gold_stairs",
     "beefsmetalblock:smooth_gold",
     "beefsmetalblock:chiseled_gold",
     "beefsmetalblock:reinforced_gold",
-    "beefsmetalblock:cut_gold_slab",
-    "beefsmetalblock:cut_gold_stairs",
+
     "beefsmetalblock:reinforced_copper",
+    "beefsmetalblock:exposed_reinforced_copper",
+    "beefsmetalblock:weathered_reinforced_copper",
+    "beefsmetalblock:oxidized_reinforced_copper",
+
+    "beefsmetalblock:waxed_reinforced_copper",
+    "beefsmetalblock:waxed_exposed_reinforced_copper",
+    "beefsmetalblock:waxed_weathered_reinforced_copper",
+    "beefsmetalblock:waxed_oxidized_reinforced_copper",
+
     "beefsmetalblock:polished_copper",
+    "beefsmetalblock:exposed_polished_copper",
+    "beefsmetalblock:weathered_polished_copper",
+    "beefsmetalblock:oxidized_polished_copper",
+
+    "beefsmetalblock:waxed_polished_copper",
+    "beefsmetalblock:waxed_exposed_polished_copper",
+    "beefsmetalblock:waxed_weathered_polished_copper",
+    "beefsmetalblock:waxed_oxidized_polished_copper",
+
     "beefsmetalblock:copper_bars",
+    "beefsmetalblock:exposed_copper_bars",
+    "beefsmetalblock:weathered_copper_bars",
+    "beefsmetalblock:oxidized_copper_bars",
+
+    "beefsmetalblock:waxed_copper_bars",
+    "beefsmetalblock:waxed_exposed_copper_bars",
+    "beefsmetalblock:waxed_weathered_copper_bars",
+    "beefsmetalblock:waxed_oxidized_copper_bars",
+
     "beefsmetalblock:gold_bars",
+
+    "beefsmetalblock:gold_trapdoor",
+
+    "beefsmetalblock:iron_grate",
+    "beefsmetalblock:gold_grate",
+
     "beefsmetalblock:gold_bulb",
-    "beefsmetalblock:iron_bulb",
-    "beefsmetalblock:gold_trapdoor"
+    "beefsmetalblock:iron_bulb"
   ]
 }
