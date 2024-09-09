@@ -212,7 +212,7 @@ public class ModBlocks {
 
 
     /***********************************************New Bulb Blocks****************************************************/
-    public static final Block GOLD_BULB = registerBlock("gold_bulb",
+    /* public static final Block GOLD_BULB = registerBlock("gold_bulb",
             new BulbBlock(
                     AbstractBlock.Settings.create()
                             .mapColor(MapColor.GOLD)
@@ -232,7 +232,7 @@ public class ModBlocks {
                             .solidBlock(Blocks::never)
                             .luminance(createLightLevelFromLitBlockState(15))));
 
-
+                                                                                                                      */
     /**********************************************New Trapdoor Block**************************************************/
     public static final Block GOLD_TRAPDOOR = registerBlock("gold_trapdoor",
             new TrapdoorBlock(BlockSetType.IRON,
@@ -337,8 +337,8 @@ public static void registerOxidizable() {
             entries.add(ModBlocks.GOLD_TRAPDOOR);
         });
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.REDSTONE).register(entries -> {
-            entries.add(ModBlocks.GOLD_BULB);
-            entries.add(ModBlocks.IRON_BULB);
+            //entries.add(ModBlocks.GOLD_BULB);
+            //entries.add(ModBlocks.IRON_BULB);
 
         });
     }
