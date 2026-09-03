@@ -1,0 +1,58 @@
+{
+  "item.bmb.vc_logo": "VC Logo",
+
+  "block.bmb.cut_iron": "切り込み入りの鉄",
+  "block.bmb.smooth_iron": "鉄ブロック",
+  "block.bmb.chiseled_iron": "模様入りの鉄",
+  "block.bmb.polished_iron": "磨かれた鉄",
+  "block.minecraft.iron_block": "強化された鉄",
+  "block.bmb.cut_iron_slab": "切り込み入りの鉄のハーフブロック",
+  "block.bmb.cut_iron_stairs": "切り込み入りの鉄の階段",
+  "block.bmb.iron_grate": "鉄の金網",
+
+  "block.bmb.cut_gold": "切り込み入りの金",
+  "block.bmb.smooth_gold": "金ブロック",
+  "block.bmb.chiseled_gold": "模様入りの金",
+  "block.minecraft.gold_block": "磨かれた金",
+  "block.bmb.reinforced_gold": "強化された金",
+  "block.bmb.cut_gold_slab": "切り込み入りの金のハーフブロック",
+  "block.bmb.cut_gold_stairs": "切り込み入りの金の階段",
+  "block.bmb.gold_grate": "金の金網",
+
+  "block.bmb.polished_copper": "磨かれた銅",
+  "block.bmb.exposed_polished_copper": "風化した磨かれた銅",
+  "block.bmb.weathered_polished_copper": "錆びた磨かれた銅",
+  "block.bmb.oxidized_polished_copper": "酸化した磨かれた銅",
+
+  "block.bmb.waxed_polished_copper": "錆止めされた磨かれた銅",
+  "block.bmb.waxed_exposed_polished_copper": "錆止めされた風化した磨かれた銅",
+  "block.bmb.waxed_weathered_polished_copper": "錆止めされた錆びた磨かれた銅",
+  "block.bmb.waxed_oxidized_polished_copper": "錆止めされた酸化した磨かれた銅",
+
+  "block.bmb.reinforced_copper": "強化された銅",
+  "block.bmb.exposed_reinforced_copper": "風化した強化された銅",
+  "block.bmb.weathered_reinforced_copper": "錆びた強化された銅",
+  "block.bmb.oxidized_reinforced_copper": "酸化した強化された銅",
+
+  "block.bmb.waxed_reinforced_copper": "錆止めされた強化された銅",
+  "block.bmb.waxed_exposed_reinforced_copper": "錆止めされた風化した強化された銅",
+  "block.bmb.waxed_weathered_reinforced_copper": "錆止めされた錆びた強化された銅",
+  "block.bmb.waxed_oxidized_reinforced_copper": "錆止めされた酸化した強化された銅",
+
+  "block.bmb.copper_bars": "銅格子",
+  "block.bmb.exposed_copper_bars": "風化した銅格子",
+  "block.bmb.weathered_copper_bars": "錆びた銅格子",
+  "block.bmb.oxidized_copper_bars": "酸化した銅格子",
+
+  "block.bmb.waxed_copper_bars": "錆止めされた銅格子",
+  "block.bmb.waxed_exposed_copper_bars": "錆止めされた風化した銅格子",
+  "block.bmb.waxed_weathered_copper_bars": "錆止めされた錆びた銅格子",
+  "block.bmb.waxed_oxidized_copper_bars": "錆止めされた酸化した銅格子",
+
+  "block.bmb.gold_bars": "金格子",
+
+  "block.bmb.gold_trapdoor": "金のトラップドア",
+
+  "block.bmb.gold_bulb": "金の電球",
+  "block.bmb.iron_bulb": "鉄の電球"
+}
